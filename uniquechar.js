@@ -1,0 +1,1 @@
+uniqueChar("thequickbrownfoxjumpsoverthelazydog"); // thequickbrownfxjmpsvlazydg
